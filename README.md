@@ -1,5 +1,9 @@
 # Inzaniak's Medium Blog Repo
 <img src=".\resources\img\big_banner.png">  
+
+---
+## Overview
+
 This is the new repository for my blog:  
 
 https://medium.com/@inzaniak
@@ -7,8 +11,13 @@ https://medium.com/@inzaniak
 If you are looking for the old repository, you'll find it here:  
 https://github.com/Inzaniak/pybistuff
 
+---
+## Donations and stuff
+
 If you'd like to support me consider subscribing to Medium using my referral:  
-https://medium.com/@inzaniak/membership
+https://medium.com/@inzaniak/membership  
+If you don't want to activate a subscription plan, but you'd still like to support me consider buying my music from Bandcamp:  
+https://inzaniak.bandcamp.com
 
 ---
 ## Other URLs:
