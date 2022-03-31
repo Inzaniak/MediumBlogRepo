@@ -43,12 +43,12 @@ class pxpowershell(object):
 
 def create_connection(ps, server_name, database_name = None):
     ps.run(f'$serverName = "{server_name}";')
-    ps.run(f'$databaseName = "{database_name}";')
     ps.run('$svr = new-Object Microsoft.AnalysisServices.Tabular.Server')
     ps.run('$svr.Connect($serverName)')
     ps.run('$database = $svr.databases')
     if database_name:
-        ps.run('$database = $database.GetByName({$databaseName})')
+        ps.run(f'$databaseName = "{database_name}";')
+        ps.run(f'$database = $database.GetByName($databaseName)')
     else:
         db_name = ps.run("$svr.databases[0].name").decode('utf-8').strip()
         ps.run(f'$db = $database.GetByName("{db_name}")')
