@@ -24,3 +24,5 @@ https://inzaniak.bandcamp.com
 Personal Website: https://inzaniak.github.io  
 Social Links: https://inzaniak.github.io/links.html  
 Linkedin: https://www.linkedin.com/in/umberto-grando-a8527b150/  
+
+![image](https://user-images.githubusercontent.com/5658274/168567039-177eede2-2182-4a98-8128-b890723757be.png)
