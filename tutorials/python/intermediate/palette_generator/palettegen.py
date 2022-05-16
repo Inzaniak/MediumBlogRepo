@@ -3,7 +3,7 @@ import colorgram
 import os
 from math import sqrt
 
-API_KEY = '11989272-318a24aa4e9664fce3809c00b'
+API_KEY = 'INSERT_YOUR_API_KEY'
 URL = 'https://pixabay.com/api/?key={key}&q={q}'
 QUERY = 'sea'
 
