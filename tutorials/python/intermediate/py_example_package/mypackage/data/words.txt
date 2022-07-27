@@ -1,0 +1,8 @@
+dog
+cat
+wolf
+giraffe
+zebra
+cow
+goat
+sheep
