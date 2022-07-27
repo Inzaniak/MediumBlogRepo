@@ -1,0 +1,10 @@
+tutorials/python/intermediate/silence_remove/audio/*
+tutorials/python/intermediate/silence_remove/output/*
+tutorials/python/beginner/bg_removal/out_pics/junction.png
+debug.log
+.vscode/*
+/tutorials/python/intermediate/palette_generator/data/img
+/tutorials/python/intermediate/palette_generator/html/sea.html
+/tutorials/python/intermediate/py_example_package/build
+/tutorials/python/intermediate/py_example_package/mypackage.egg-info
+/tutorials/python/intermediate/py_example_package/mypackage/__pycache__
