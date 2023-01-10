@@ -8,3 +8,4 @@ debug.log
 /tutorials/python/intermediate/py_example_package/build
 /tutorials/python/intermediate/py_example_package/mypackage.egg-info
 /tutorials/python/intermediate/py_example_package/mypackage/__pycache__
+tutorials/python/intermediate/spotify_gui/.cache/credentials
