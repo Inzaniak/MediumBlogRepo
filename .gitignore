@@ -9,3 +9,6 @@ debug.log
 /tutorials/python/intermediate/py_example_package/mypackage.egg-info
 /tutorials/python/intermediate/py_example_package/mypackage/__pycache__
 tutorials/python/intermediate/spotify_gui/.cache/credentials
+/tutorials/python/intermediate/gpt2_chat_gui/models
+/tutorials/python/intermediate/playwright_example/images
+tutorials/python/intermediate/resizing_cropping/images/thumbnail.jpeg
